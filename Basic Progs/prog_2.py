@@ -1,7 +1,7 @@
 import sklearn as np
 x = "Yagnesh "
 y = "Patil"
-z = x + y
+z = x + y + "Something"
 try:
     x = int(x)
     print(z)
