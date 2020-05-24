@@ -5,4 +5,4 @@ try:
 except:
     print('Invalid conversation done here')
     x = 10
-print("int of x", x)
+print("int of x:", x)
