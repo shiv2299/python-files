@@ -1,5 +1,7 @@
 import sklearn as np
-x = "Yagnesh"
+x = "Yagnesh "
+y = "Patil"
+z = x + y
 try:
     x = int(x)
 except:
