@@ -1,4 +1,3 @@
-import sklearn as np
 x = "Yagnesh "
 y = "Patil"
 z = x + y + "Something"

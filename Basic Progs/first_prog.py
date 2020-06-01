@@ -12,6 +12,6 @@ try:
 	else:
 		print('nothing! x is greater than 5')
 	for i in range(5):
-		print('*\t')
+		print('*\t')str./
 except:
 	print('enter valid number x!')

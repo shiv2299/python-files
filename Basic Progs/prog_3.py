@@ -14,4 +14,4 @@ while True:
 	except:
 		print('Invalid number')
 print('Maximum is', largest)
-print('Minimum is', smallest)
+print('Minimum is', smallest) 
