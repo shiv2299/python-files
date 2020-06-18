@@ -1,3 +1,5 @@
+# finding Largest and Smallest number from given inputs until done is typed.
+
 largest = None
 smallest = None
 while True:

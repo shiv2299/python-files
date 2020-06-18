@@ -1,3 +1,5 @@
+# program for try...except block
+
 x = "Yagnesh "
 y = "Patil"
 z = x + y + "Something"
