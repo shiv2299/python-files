@@ -1,4 +1,4 @@
-#Program for eillustrating lists
+#Program for illustrating lists
 
 list_var = [2134, 1, 455, 56.345]
 print(list_var)
