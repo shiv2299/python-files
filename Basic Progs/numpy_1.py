@@ -117,7 +117,3 @@ R = np.sqrt(X**2 + Y**2)
 Z = np.cos(R)
 
 ax.plot_surface(X, Y, Z, rstride=1, cstride=1, cmap='viridis')
-
-# traversing n-d array by flattening it
-for i in nd_array.flat:
-    print(i,end=' ')
