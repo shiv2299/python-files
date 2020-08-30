@@ -1,0 +1,12 @@
+# program for try...except block
+
+x = "Yagnesh "
+y = "Patil"
+z = x + y + "Something"
+try:
+    x = int(x)
+    print(z)
+except:
+    print('Invalid conversation done here')
+    x = 10
+print("int of x:", x)
